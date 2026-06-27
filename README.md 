@@ -1,0 +1,50 @@
+# Week 2: Personal portfolio website 
+
+## Author
+- **Name:** kibet ken 
+- **GitHub:** [@LGRTECH98](https://github.com/LGRTECH98)
+- **Date:** June 21, 2026
+
+## Project Description
+This project  is a responsive personal portfolio website designed to showcase my profile programming skills, projects and programming skills 
+It demonstrates my knowledge of HTML5,CSS3, and JavaScript, while providing a professional online presences that can be deployed using GitHub pages 
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript 
+- flex box 
+- Css Grid 
+- Google fonts
+- Git
+- GitHub 
+- GitHub pages 
+
+## Features
+- About me section 
+- skills section 
+- project showcase
+- contact form 
+- Social media links 
+- Responsive design for mobile, tablet and desktop device 
+
+## How to Run
+1. Clone this repository
+2. Open `index.html` in your browser
+   OR
+   Run `npm install` then `npm start`
+
+## Lessons Learned
+- Learnt how to use markup languages 
+- I can now deploy multiple pages on GitHub 
+
+
+## Challenges Faced
+-Encountered a problem in linking of project screenshot and adding downloadable CV 
+-Am still working on the solution 
+
+## Screenshots (optional)
+![Screenshot description](path/to/screenshot.png)
+
+## Live Demo (if deployed)
+[View Live Demo](https://LGRTECH98.github.io)
